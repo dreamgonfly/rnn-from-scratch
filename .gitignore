@@ -1,0 +1,12 @@
+*.DS_Store
+*.ipynb_checkpoints/
+*.log
+/sandbox/*
+/data/*
+/reference/*
+!*/data/README.md
+*/medium/
+!*/medium/README.md
+*/reference/
+
+*.pyc
